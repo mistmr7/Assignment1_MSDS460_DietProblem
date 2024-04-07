@@ -28,3 +28,5 @@ A solution with 1 serving of chicken and 1 serving of milk required per day and 
 A realistic solution where eggs are capped at 5 per day and rice is capped at 3 servings per day
 
 chatgptsolution.py contains the output code of chatgpt solving the problem ensuring at least one of each item is used.
+
+The pdf file includes the writeup, photos of each nutritional label in Appendix I, the weekly food nutrition table with a recipe for the vegetables in Appendix II, the discussion with ChatGPT in Appendix III, and a table of the results of the solutions for each of the constraints in Appendix IV.
